@@ -1,5 +1,8 @@
 # preproject
 これは2021年9月22日発表予定、関東甲信越グループのデータ分析部分に当たります。  
+## 資料
+資料についてはこちらを参照ください。
+https://docs.google.com/presentation/d/1_SubES3biqX6IncQpZa_TPLvkAzVXwCw/edit?usp=sharing&ouid=108070654167900839401&rtpof=true&sd=true
 ## 説明
 フォルダ内のpreproject/program/main.ipynbを実行すれば資料通りの結果が得られます。  
 ## 動作環境
